@@ -1,7 +1,8 @@
 ﻿---
 layout: page
-title: About us
+title: about
 ---
+
 # Vannevar Bush
 Tento projekt je určen pro lidi, kteří se zajímají především o informační vědu a knihovnictví. Cílem našeho webu je představit 
 Vám konkrétně osobnost Vannevara Bushe - muže, který je jeden z pionýrů informační vědy. Mrzelo nás, že o této osobnosti je 
